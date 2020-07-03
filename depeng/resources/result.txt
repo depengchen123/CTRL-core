@@ -1,0 +1,3256 @@
+Extract top 20 Key words according to TF-IDF value 
+===================================
+File name: b'2'.eml
+
+salary 0.264
+remotely 0.264
+personnel 0.264
+manager 0.264
+large 0.264
+international 0.264
+ian 0.264
+employees 0.264
+distance 0.264
+company 0.264
+offer 0.256
+home 0.248
+working 0.242
+interested 0.216
+visit 0.177
+work 0.162
+site 0.116
+#################################
+
+File name: b'3'.eml
+
+video 0.381
+access 0.323
+bitcoin 0.273
+malware 0.194
+address 0.189
+correspondence 0.168
+half 0.161
+antivirus 0.161
+make 0.147
+full 0.134
+contacts 0.126
+hours 0.123
+screen 0.115
+letter 0.113
+email 0.105
+turn 0.084
+tracked 0.084
+signatures 0.084
+showing 0.084
+shared 0.084
+#################################
+
+File name: b'4'.eml
+
+video 0.381
+bitcoin 0.273
+access 0.259
+malware 0.194
+address 0.189
+means 0.168
+correspondence 0.168
+half 0.161
+antivirus 0.161
+email 0.158
+make 0.147
+full 0.134
+contacts 0.126
+hours 0.123
+device 0.123
+screen 0.115
+letter 0.113
+noticed 0.094
+turn 0.084
+tracked 0.084
+#################################
+
+File name: b'5'.eml
+
+rich 1.0
+#################################
+
+File name: b'6'.eml
+
+video 0.381
+bitcoin 0.273
+access 0.259
+malware 0.194
+address 0.189
+means 0.168
+correspondence 0.168
+half 0.161
+antivirus 0.161
+email 0.158
+make 0.147
+full 0.134
+contacts 0.126
+hours 0.123
+device 0.123
+screen 0.115
+letter 0.113
+noticed 0.094
+turn 0.084
+tracked 0.084
+#################################
+
+File name: b'7'.eml
+
+video 0.381
+bitcoin 0.273
+access 0.259
+malware 0.194
+address 0.189
+means 0.168
+correspondence 0.168
+half 0.161
+antivirus 0.161
+email 0.158
+make 0.147
+full 0.134
+contacts 0.126
+hours 0.123
+device 0.123
+screen 0.115
+letter 0.113
+noticed 0.094
+turn 0.084
+tracked 0.084
+#################################
+
+File name: b'8'.eml
+
+video 0.437
+websites 0.24
+webcam 0.24
+shows 0.24
+program 0.21
+part 0.21
+email 0.201
+contacts 0.181
+immediately 0.151
+dont 0.151
+bitcoins 0.141
+time 0.136
+trojan 0.121
+send 0.112
+screen 0.11
+taste 0.105
+resend 0.105
+price 0.105
+posted 0.105
+dollars 0.105
+#################################
+
+File name: b'9'.eml
+
+rich 1.0
+#################################
+
+File name: b'10'.eml
+
+video 0.381
+access 0.323
+bitcoin 0.273
+malware 0.194
+address 0.189
+correspondence 0.168
+half 0.161
+antivirus 0.161
+make 0.147
+full 0.134
+contacts 0.126
+hours 0.123
+screen 0.115
+letter 0.113
+email 0.105
+turn 0.084
+tracked 0.084
+signatures 0.084
+showing 0.084
+shared 0.084
+#################################
+
+File name: b'11'.eml
+
+video 0.381
+bitcoin 0.273
+access 0.259
+malware 0.194
+address 0.189
+means 0.168
+correspondence 0.168
+half 0.161
+antivirus 0.161
+email 0.158
+make 0.147
+full 0.134
+contacts 0.126
+hours 0.123
+device 0.123
+screen 0.115
+letter 0.113
+noticed 0.094
+turn 0.084
+tracked 0.084
+#################################
+
+File name: b'12'.eml
+
+salary 0.264
+remotely 0.264
+personnel 0.264
+manager 0.264
+large 0.264
+international 0.264
+ian 0.264
+employees 0.264
+distance 0.264
+company 0.264
+offer 0.256
+home 0.248
+working 0.242
+interested 0.216
+visit 0.177
+work 0.162
+site 0.116
+#################################
+
+File name: b'13'.eml
+
+salary 0.264
+remotely 0.264
+personnel 0.264
+manager 0.264
+large 0.264
+international 0.264
+ian 0.264
+employees 0.264
+distance 0.264
+company 0.264
+offer 0.256
+home 0.248
+working 0.242
+interested 0.216
+visit 0.177
+work 0.162
+site 0.116
+#################################
+
+File name: b'14'.eml
+
+shy 0.371
+choose 0.352
+fuck 0.316
+sex 0.312
+ready 0.311
+girls 0.302
+city 0.233
+tonight 0.219
+pussy 0.219
+hot 0.211
+girl 0.211
+day 0.192
+site 0.174
+womens 0.16
+find 0.141
+#################################
+
+File name: b'15'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'16'.eml
+
+important 0.45
+media 0.433
+maxwidth 0.404
+mcntextcontent 0.371
+screen 0.363
+importantlineheight 0.152
+pfontsize 0.118
+color 0.102
+rightcolumncontainer 0.091
+leftcolumncontainer 0.091
+headercontainer 0.091
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.084
+preheadercontainer 0.068
+footercontainer 0.068
+bodycontainer 0.068
+importantwidth 0.068
+importantpaddingbottom 0.068
+fontsize 0.068
+importantpaddingleft 0.051
+acolorfontweightnormaltextdecorationunderline 0.051
+#################################
+
+File name: b'17'.eml
+
+salary 0.264
+remotely 0.264
+personnel 0.264
+manager 0.264
+large 0.264
+international 0.264
+ian 0.264
+employees 0.264
+distance 0.264
+company 0.264
+offer 0.256
+home 0.248
+working 0.242
+interested 0.216
+visit 0.177
+work 0.162
+site 0.116
+#################################
+
+File name: b'18'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'19'.eml
+
+screenshots 0.279
+device 0.236
+sites 0.222
+made 0.198
+payment 0.145
+amount 0.143
+btc 0.142
+understand 0.139
+os 0.139
+enjoys 0.139
+situation 0.132
+big 0.124
+online 0.121
+server 0.119
+screenshot 0.119
+router 0.119
+regularly 0.119
+receive 0.119
+files 0.119
+disk 0.119
+#################################
+
+File name: b'20'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'21'.eml
+
+video 0.316
+moment 0.286
+software 0.24
+porn 0.193
+information 0.193
+erase 0.193
+downloaded 0.173
+im 0.157
+system 0.129
+installed 0.12
+data 0.12
+trojan 0.105
+device 0.102
+send 0.098
+youre 0.096
+updating 0.096
+step 0.096
+shoots 0.096
+secure 0.096
+records 0.096
+#################################
+
+File name: b'22'.eml
+
+love 0.346
+lola 0.346
+write 0.249
+soul 0.173
+sake 0.173
+overcome 0.173
+modest 0.173
+mate 0.173
+importantly 0.173
+honest 0.173
+heart 0.173
+happiness 0.173
+gmailcom 0.173
+fears 0.173
+determined 0.173
+cheerful 0.173
+personal 0.168
+world 0.164
+modern 0.164
+live 0.164
+#################################
+
+File name: b'23'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'24'.eml
+
+country 0.416
+lgbt 0.333
+iran 0.25
+people 0.231
+trouble 0.166
+peace 0.166
+executed 0.166
+beloved 0.166
+live 0.123
+change 0.104
+works 0.083
+undergo 0.083
+treatment 0.083
+transgender 0.083
+tortured 0.083
+suddenly 0.083
+shocking 0.083
+scum 0.083
+representatives 0.083
+regularity 0.083
+#################################
+
+File name: b'25'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'26'.eml
+
+video 0.381
+bitcoin 0.273
+access 0.259
+malware 0.194
+address 0.189
+means 0.168
+correspondence 0.168
+half 0.161
+antivirus 0.161
+email 0.158
+make 0.147
+full 0.134
+contacts 0.126
+hours 0.123
+device 0.123
+screen 0.115
+letter 0.113
+noticed 0.094
+turn 0.084
+tracked 0.084
+#################################
+
+File name: b'27'.eml
+
+content 0.252
+email 0.212
+device 0.198
+sites 0.175
+rat 0.168
+contacts 0.152
+dont 0.127
+system 0.125
+antiviruses 0.125
+relatives 0.121
+password 0.119
+make 0.119
+software 0.117
+data 0.117
+malicious 0.115
+code 0.115
+made 0.104
+payment 0.102
+im 0.102
+amount 0.1
+#################################
+
+File name: b'28'.eml
+
+zoe 0.295
+scarlett 0.295
+madison 0.295
+lillian 0.295
+hannah 0.295
+select 0.265
+penelope 0.265
+fuuuuck 0.265
+camila 0.245
+site 0.216
+unsubscribe 0.184
+list 0.184
+city 0.145
+millions 0.143
+hottest 0.143
+women 0.138
+profiles 0.138
+collected 0.138
+single 0.127
+womens 0.1
+#################################
+
+File name: b'29'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'30'.eml
+
+shy 0.371
+choose 0.352
+fuck 0.316
+sex 0.312
+ready 0.311
+girls 0.302
+city 0.233
+tonight 0.219
+pussy 0.219
+hot 0.211
+girl 0.211
+day 0.192
+site 0.174
+womens 0.16
+find 0.141
+#################################
+
+File name: b'31'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'32'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'33'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'34'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'35'.eml
+
+important 0.503
+media 0.435
+maxwidth 0.419
+screen 0.378
+mcntextcontent 0.339
+importantlineheight 0.17
+pfontsize 0.094
+colorfontfamilyhelveticafontsizefontstylenormalfontweightboldlineheightletterspacingnormaltextalignleft 0.082
+fontsize 0.075
+acolorfontweightnormaltextdecorationunderline 0.075
+templatepreheader 0.061
+templateheader 0.061
+templatefooter 0.061
+templatebody 0.061
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.057
+importantpaddingbottom 0.057
+mcntextcontenttemplatepreheader 0.041
+mcntextcontenttemplateheader 0.041
+mcntextcontenttemplatefooter 0.041
+mcntextcontenttemplatebody 0.041
+#################################
+
+File name: b'36'.eml
+
+millions 0.354
+hottest 0.354
+women 0.341
+profiles 0.341
+collected 0.341
+single 0.314
+site 0.267
+womens 0.247
+fuck 0.243
+sex 0.24
+girls 0.232
+#################################
+
+File name: b'37'.eml
+
+love 0.346
+lola 0.346
+write 0.249
+soul 0.173
+sake 0.173
+overcome 0.173
+modest 0.173
+mate 0.173
+importantly 0.173
+honest 0.173
+heart 0.173
+happiness 0.173
+gmailcom 0.173
+fears 0.173
+determined 0.173
+cheerful 0.173
+personal 0.168
+world 0.164
+modern 0.164
+live 0.164
+#################################
+
+File name: b'38'.eml
+
+millions 0.354
+hottest 0.354
+women 0.341
+profiles 0.341
+collected 0.341
+single 0.314
+site 0.267
+womens 0.247
+fuck 0.243
+sex 0.24
+girls 0.232
+#################################
+
+File name: b'39'.eml
+
+link 0.442
+willow 0.246
+valentina 0.246
+quinn 0.246
+nova 0.246
+naomi 0.246
+eliana 0.246
+caroline 0.246
+allison 0.246
+button 0.204
+paste 0.198
+copy 0.198
+site 0.18
+browser 0.17
+work 0.126
+city 0.12
+millions 0.119
+hottest 0.119
+women 0.115
+profiles 0.115
+#################################
+
+File name: b'40'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'41'.eml
+
+thinking 0.342
+stop 0.342
+sexy 0.342
+loved 0.342
+body 0.342
+found 0.307
+profile 0.284
+sweet 0.26
+gorgeous 0.26
+website 0.248
+photos 0.183
+find 0.102
+#################################
+
+File name: b'42'.eml
+
+money 0.277
+device 0.241
+sites 0.17
+payment 0.148
+amount 0.146
+wallet 0.143
+operating 0.132
+small 0.126
+joys 0.126
+big 0.126
+system 0.121
+server 0.121
+router 0.121
+regularly 0.121
+receive 0.121
+disk 0.121
+remote 0.119
+hacked 0.115
+data 0.113
+time 0.112
+#################################
+
+File name: b'43'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'44'.eml
+
+important 0.608
+width 0.27
+auto 0.194
+spanimportant 0.172
+padding 0.156
+shop 0.152
+paddingtop 0.135
+img 0.135
+height 0.135
+textalign 0.129
+media 0.104
+webkitfontsmoothspaning 0.091
+umaxwidth 0.091
+textdecoratiounu 0.091
+temailblockpaddiunu 0.091
+temailalignlefutu 0.091
+tefont 0.091
+romanmafontilblockpadding 0.091
+paddinstronggrstrongight 0.091
+ou 0.091
+#################################
+
+File name: b'45'.eml
+
+important 0.722
+width 0.257
+allrecords 0.193
+auto 0.184
+padding 0.148
+marginleft 0.135
+margin 0.135
+paddingtop 0.128
+img 0.128
+height 0.128
+border 0.128
+textalign 0.123
+lineheight 0.123
+media 0.099
+maxwidth 0.099
+victories 0.087
+stuff 0.087
+simple 0.087
+pleasures 0.087
+deserves 0.087
+#################################
+
+File name: b'46'.eml
+
+ready 0.261
+sophie 0.199
+maya 0.199
+layla 0.199
+aria 0.199
+tons 0.179
+tall 0.179
+skinny 0.179
+shortwhite 0.179
+savannah 0.179
+riley 0.179
+redhead 0.179
+private 0.179
+plump 0.179
+latin 0.179
+dating 0.179
+brunette 0.179
+brielle 0.179
+blonde 0.179
+black 0.179
+#################################
+
+File name: b'47'.eml
+
+important 0.716
+width 0.255
+allrecords 0.191
+auto 0.182
+padding 0.147
+marginleft 0.134
+margin 0.134
+paddingtop 0.127
+img 0.127
+height 0.127
+border 0.127
+textalign 0.122
+lineheight 0.122
+media 0.098
+maxwidth 0.098
+trusted 0.086
+store 0.086
+solve 0.086
+problems 0.086
+lifestyle 0.086
+#################################
+
+File name: b'48'.eml
+
+device 0.171
+system 0.162
+server 0.162
+router 0.162
+files 0.162
+rootkit 0.162
+received 0.162
+funs 0.162
+automatically 0.156
+time 0.149
+videos 0.145
+saved 0.145
+exploit 0.145
+passwords 0.134
+online 0.11
+vulnerability 0.108
+history 0.104
+software 0.101
+sites 0.101
+data 0.101
+#################################
+
+File name: b'49'.eml
+
+screenshots 0.279
+device 0.236
+sites 0.222
+made 0.198
+payment 0.145
+amount 0.143
+btc 0.142
+understand 0.139
+os 0.139
+enjoys 0.139
+situation 0.132
+big 0.124
+online 0.121
+server 0.119
+screenshot 0.119
+router 0.119
+regularly 0.119
+receive 0.119
+files 0.119
+disk 0.119
+#################################
+
+File name: b'50'.eml
+
+video 0.381
+access 0.323
+bitcoin 0.273
+malware 0.194
+address 0.189
+correspondence 0.168
+half 0.161
+antivirus 0.161
+make 0.147
+full 0.134
+contacts 0.126
+hours 0.123
+screen 0.115
+letter 0.113
+email 0.105
+turn 0.084
+tracked 0.084
+signatures 0.084
+showing 0.084
+shared 0.084
+#################################
+
+File name: b'51'.eml
+
+screenshots 0.279
+device 0.236
+sites 0.222
+made 0.198
+payment 0.145
+amount 0.143
+btc 0.142
+understand 0.139
+os 0.139
+enjoys 0.139
+situation 0.132
+big 0.124
+online 0.121
+server 0.119
+screenshot 0.119
+router 0.119
+regularly 0.119
+receive 0.119
+files 0.119
+disk 0.119
+#################################
+
+File name: b'52'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'53'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'54'.eml
+
+important 0.502
+media 0.435
+maxwidth 0.419
+screen 0.378
+mcntextcontent 0.339
+importantlineheight 0.17
+pfontsize 0.094
+colorfontfamilyhelveticafontsizefontstylenormalfontweightboldlineheightletterspacingnormaltextalignleft 0.082
+fontsize 0.075
+acolorfontweightnormaltextdecorationunderline 0.075
+templatepreheader 0.061
+templateheader 0.061
+templatefooter 0.061
+templatebody 0.061
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.057
+importantpaddingbottom 0.057
+mcntextcontenttemplatepreheader 0.041
+mcntextcontenttemplateheader 0.041
+mcntextcontenttemplatefooter 0.041
+mcntextcontenttemplatebody 0.041
+#################################
+
+File name: b'55'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'56'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'57'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'58'.eml
+
+important 0.502
+media 0.435
+maxwidth 0.419
+screen 0.377
+mcntextcontent 0.339
+importantlineheight 0.169
+pfontsize 0.094
+colorfontfamilyhelveticafontsizefontstylenormalfontweightboldlineheightletterspacingnormaltextalignleft 0.082
+fontsize 0.075
+acolorfontweightnormaltextdecorationunderline 0.075
+templatepreheader 0.061
+templateheader 0.061
+templatefooter 0.061
+templatebody 0.061
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.056
+importantpaddingbottom 0.056
+mcntextcontenttemplatepreheader 0.041
+mcntextcontenttemplateheader 0.041
+mcntextcontenttemplatefooter 0.041
+mcntextcontenttemplatebody 0.041
+#################################
+
+File name: b'59'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'60'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'61'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'62'.eml
+
+western 0.477
+union 0.477
+number 0.214
+usd 0.206
+mtcn 0.159
+details 0.159
+compensation 0.159
+note 0.143
+complete 0.143
+payment 0.129
+money 0.121
+email 0.108
+transfer 0.106
+phone 0.106
+yesterday 0.08
+whatsapp 0.08
+trust 0.08
+total 0.08
+today 0.08
+till 0.08
+#################################
+
+File name: b'63'.eml
+
+shy 0.371
+choose 0.352
+fuck 0.316
+sex 0.312
+ready 0.311
+girls 0.302
+city 0.233
+tonight 0.219
+pussy 0.219
+hot 0.211
+girl 0.211
+day 0.192
+site 0.174
+womens 0.16
+find 0.141
+#################################
+
+File name: b'64'.eml
+
+love 0.346
+lola 0.346
+write 0.249
+soul 0.173
+sake 0.173
+overcome 0.173
+modest 0.173
+mate 0.173
+importantly 0.173
+honest 0.173
+heart 0.173
+happiness 0.173
+gmailcom 0.173
+fears 0.173
+determined 0.173
+cheerful 0.173
+personal 0.168
+world 0.164
+modern 0.164
+live 0.164
+#################################
+
+File name: b'65'.eml
+
+love 0.346
+lola 0.346
+write 0.249
+soul 0.173
+sake 0.173
+overcome 0.173
+modest 0.173
+mate 0.173
+importantly 0.173
+honest 0.173
+heart 0.173
+happiness 0.173
+gmailcom 0.173
+fears 0.173
+determined 0.173
+cheerful 0.173
+personal 0.168
+world 0.164
+modern 0.164
+live 0.164
+#################################
+
+File name: b'66'.eml
+
+millions 0.354
+hottest 0.354
+women 0.341
+profiles 0.341
+collected 0.341
+single 0.314
+site 0.267
+womens 0.247
+fuck 0.243
+sex 0.24
+girls 0.232
+#################################
+
+File name: b'67'.eml
+
+important 0.509
+media 0.424
+screen 0.382
+mcntextcontent 0.381
+maxwidth 0.375
+importantlineheight 0.172
+fontsize 0.076
+templateheader 0.062
+templatefooter 0.062
+importantpaddingbottom 0.057
+templatepreheader 0.041
+templatebody 0.041
+mcntextcontenttemplateheader 0.041
+mcntextcontenttemplatefooter 0.041
+mcntextcontenttemplatebody 0.041
+colorfontfamilyhelveticafontsizefontstylenormalfontweightboldlineheightletterspacingnormaltextalignleft 0.041
+view 0.04
+pfontsize 0.038
+importantwidth 0.038
+importantpaddingleft 0.038
+#################################
+
+File name: b'68'.eml
+
+millions 0.354
+hottest 0.354
+women 0.341
+profiles 0.341
+collected 0.341
+single 0.314
+site 0.267
+womens 0.247
+fuck 0.243
+sex 0.24
+girls 0.232
+#################################
+
+File name: b'69'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'70'.eml
+
+link 0.454
+violet 0.253
+leah 0.253
+claire 0.253
+aubrey 0.253
+savannah 0.227
+isabella 0.227
+avery 0.227
+camila 0.21
+button 0.21
+paste 0.203
+copy 0.203
+site 0.185
+browser 0.175
+work 0.129
+city 0.124
+millions 0.123
+hottest 0.123
+women 0.118
+profiles 0.118
+#################################
+
+File name: b'71'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'72'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'73'.eml
+
+bar 0.4
+attractive 0.4
+met 0.345
+pictures 0.322
+hey 0.313
+gorgeous 0.304
+website 0.29
+month 0.267
+ago 0.257
+photos 0.214
+#################################
+
+File name: b'74'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'75'.eml
+
+money 0.277
+device 0.241
+sites 0.17
+payment 0.148
+amount 0.146
+wallet 0.143
+operating 0.132
+small 0.126
+joys 0.126
+big 0.126
+system 0.121
+server 0.121
+router 0.121
+regularly 0.121
+receive 0.121
+disk 0.121
+remote 0.119
+hacked 0.115
+data 0.113
+time 0.112
+#################################
+
+File name: b'76'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'77'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'78'.eml
+
+username 0.459
+taste 0.433
+profile 0.382
+talk 0.341
+view 0.319
+ready 0.301
+make 0.291
+im 0.249
+#################################
+
+File name: b'79'.eml
+
+important 0.438
+maxwidth 0.435
+media 0.392
+mcntextcontent 0.39
+screen 0.378
+importantlineheight 0.187
+pfontsize 0.102
+footercontainer 0.091
+acolorfontweightnormaltextdecorationunderline 0.085
+rightcolumncontainer 0.069
+preheadercontainer 0.069
+leftcolumncontainer 0.069
+headercontainer 0.069
+bodycontainer 0.069
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.068
+importantpaddingbottom 0.068
+fontsize 0.068
+color 0.061
+importantwidth 0.051
+importantpaddingleft 0.051
+#################################
+
+File name: b'80'.eml
+
+video 0.381
+bitcoin 0.273
+access 0.259
+malware 0.194
+address 0.189
+means 0.168
+correspondence 0.168
+half 0.161
+antivirus 0.161
+email 0.158
+make 0.147
+full 0.134
+contacts 0.126
+hours 0.123
+device 0.123
+screen 0.115
+letter 0.113
+noticed 0.094
+turn 0.084
+tracked 0.084
+#################################
+
+File name: b'81'.eml
+
+screenshots 0.277
+device 0.235
+sites 0.221
+made 0.197
+payment 0.144
+amount 0.143
+btc 0.141
+account 0.141
+understand 0.139
+os 0.139
+enjoys 0.139
+situation 0.132
+big 0.123
+online 0.121
+server 0.118
+screenshot 0.118
+router 0.118
+regularly 0.118
+receive 0.118
+files 0.118
+#################################
+
+File name: b'82'.eml
+
+important 0.723
+width 0.257
+allrecords 0.193
+auto 0.184
+padding 0.149
+marginleft 0.136
+margin 0.136
+paddingtop 0.129
+img 0.129
+height 0.129
+border 0.129
+textalign 0.123
+lineheight 0.123
+media 0.099
+maxwidth 0.099
+risky 0.087
+required 0.087
+pleasure 0.087
+partner 0.087
+order 0.087
+#################################
+
+File name: b'83'.eml
+
+important 0.727
+width 0.259
+allrecords 0.194
+auto 0.185
+padding 0.149
+marginleft 0.136
+margin 0.136
+paddingtop 0.129
+img 0.129
+height 0.129
+border 0.129
+textalign 0.124
+lineheight 0.124
+media 0.1
+maxwidth 0.1
+woman 0.087
+suffer 0.087
+successful 0.087
+stock 0.087
+slow 0.087
+#################################
+
+File name: b'84'.eml
+
+salary 0.264
+remotely 0.264
+personnel 0.264
+manager 0.264
+large 0.264
+international 0.264
+ian 0.264
+employees 0.264
+distance 0.264
+company 0.264
+offer 0.256
+home 0.248
+working 0.242
+interested 0.216
+visit 0.177
+work 0.162
+site 0.116
+#################################
+
+File name: b'85'.eml
+
+tons 0.244
+tall 0.244
+skinny 0.244
+shortwhite 0.244
+redhead 0.244
+private 0.244
+plump 0.244
+latin 0.244
+dating 0.244
+brunette 0.244
+blonde 0.244
+black 0.244
+asian 0.244
+real 0.193
+sex 0.179
+ready 0.178
+women 0.127
+profiles 0.127
+tonight 0.125
+pussy 0.125
+#################################
+
+File name: b'86'.eml
+
+victoria 0.286
+ava 0.286
+addison 0.286
+abigail 0.286
+select 0.257
+riley 0.257
+lily 0.257
+isabella 0.257
+fuuuuck 0.257
+avery 0.257
+site 0.209
+unsubscribe 0.178
+list 0.178
+city 0.14
+millions 0.139
+hottest 0.139
+women 0.133
+profiles 0.133
+collected 0.133
+single 0.123
+#################################
+
+File name: b'87'.eml
+
+important 0.472
+media 0.424
+maxwidth 0.409
+mcntextcontent 0.39
+screen 0.368
+importantlineheight 0.177
+pfontsize 0.106
+fontsize 0.089
+acolorfontweightnormaltextdecorationunderline 0.089
+templatesidebar 0.08
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.071
+templatepreheader 0.058
+templateheader 0.058
+templatefooter 0.058
+templatebody 0.058
+colorfontfamilyhelveticafontsizefontstylenormalfontweightboldlineheightletterspacingnormaltextalignleft 0.058
+importantwidth 0.053
+importantpaddingbottom 0.053
+mcntextcontenttemplatesidebar 0.053
+normal 0.038
+#################################
+
+File name: b'88'.eml
+
+seab 1.0
+#################################
+
+File name: b'89'.eml
+
+rich 1.0
+#################################
+
+File name: b'90'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'91'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'92'.eml
+
+important 0.455
+media 0.449
+maxwidth 0.415
+screen 0.39
+mcntextcontent 0.384
+importantlineheight 0.182
+fontsize 0.081
+templatepreheader 0.066
+templatefooter 0.066
+templatebody 0.066
+pfontsize 0.061
+importantpaddingbottom 0.061
+templateheader 0.044
+mcntextcontenttemplatepreheader 0.044
+mcntextcontenttemplateheader 0.044
+mcntextcontenttemplatefooter 0.044
+mcntextcontenttemplatebody 0.044
+colorfontfamilyhelveticafontsizefontstylenormalfontweightboldlineheightletterspacingnormaltextalignleft 0.044
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.04
+importantwidth 0.04
+#################################
+
+File name: b'93'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'94'.eml
+
+screenshots 0.279
+device 0.236
+sites 0.222
+made 0.198
+payment 0.145
+amount 0.143
+btc 0.142
+understand 0.139
+os 0.139
+enjoys 0.139
+situation 0.132
+big 0.124
+online 0.121
+server 0.119
+screenshot 0.119
+router 0.119
+regularly 0.119
+receive 0.119
+files 0.119
+disk 0.119
+#################################
+
+File name: b'95'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'96'.eml
+
+video 0.381
+access 0.323
+bitcoin 0.273
+malware 0.194
+address 0.189
+correspondence 0.168
+half 0.161
+antivirus 0.161
+make 0.147
+full 0.134
+contacts 0.126
+hours 0.123
+screen 0.115
+letter 0.113
+email 0.105
+turn 0.084
+tracked 0.084
+signatures 0.084
+showing 0.084
+shared 0.084
+#################################
+
+File name: b'97'.eml
+
+screenshots 0.279
+device 0.236
+sites 0.222
+made 0.198
+payment 0.145
+amount 0.143
+btc 0.142
+understand 0.139
+os 0.139
+enjoys 0.139
+situation 0.132
+big 0.124
+online 0.121
+server 0.119
+screenshot 0.119
+router 0.119
+regularly 0.119
+receive 0.119
+files 0.119
+disk 0.119
+#################################
+
+File name: b'98'.eml
+
+shy 0.371
+choose 0.352
+fuck 0.316
+sex 0.312
+ready 0.311
+girls 0.302
+city 0.233
+tonight 0.219
+pussy 0.219
+hot 0.211
+girl 0.211
+day 0.192
+site 0.174
+womens 0.16
+find 0.141
+#################################
+
+File name: b'99'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'100'.eml
+
+screenshots 0.279
+device 0.236
+sites 0.222
+made 0.198
+payment 0.145
+amount 0.143
+btc 0.142
+understand 0.139
+os 0.139
+enjoys 0.139
+situation 0.132
+big 0.124
+online 0.121
+server 0.119
+screenshot 0.119
+router 0.119
+regularly 0.119
+receive 0.119
+files 0.119
+disk 0.119
+#################################
+
+File name: b'101'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'102'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'103'.eml
+
+important 0.502
+media 0.435
+maxwidth 0.419
+screen 0.378
+mcntextcontent 0.339
+importantlineheight 0.17
+pfontsize 0.094
+colorfontfamilyhelveticafontsizefontstylenormalfontweightboldlineheightletterspacingnormaltextalignleft 0.082
+fontsize 0.075
+acolorfontweightnormaltextdecorationunderline 0.075
+templatepreheader 0.061
+templateheader 0.061
+templatefooter 0.061
+templatebody 0.061
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.057
+importantpaddingbottom 0.057
+mcntextcontenttemplatepreheader 0.041
+mcntextcontenttemplateheader 0.041
+mcntextcontenttemplatefooter 0.041
+mcntextcontenttemplatebody 0.041
+#################################
+
+File name: b'104'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'105'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'106'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'107'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'108'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'109'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'110'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'111'.eml
+
+important 0.502
+media 0.435
+maxwidth 0.419
+screen 0.377
+mcntextcontent 0.339
+importantlineheight 0.169
+pfontsize 0.094
+colorfontfamilyhelveticafontsizefontstylenormalfontweightboldlineheightletterspacingnormaltextalignleft 0.082
+fontsize 0.075
+acolorfontweightnormaltextdecorationunderline 0.075
+templatepreheader 0.061
+templateheader 0.061
+templatefooter 0.061
+templatebody 0.061
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.056
+importantpaddingbottom 0.056
+mcntextcontenttemplatepreheader 0.041
+mcntextcontenttemplateheader 0.041
+mcntextcontenttemplatefooter 0.041
+mcntextcontenttemplatebody 0.041
+#################################
+
+File name: b'112'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'113'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'114'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'115'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'116'.eml
+
+video 0.316
+moment 0.286
+software 0.24
+porn 0.193
+information 0.193
+erase 0.193
+downloaded 0.173
+im 0.157
+system 0.129
+installed 0.12
+data 0.12
+trojan 0.105
+device 0.102
+send 0.098
+youre 0.096
+updating 0.096
+step 0.096
+shoots 0.096
+secure 0.096
+records 0.096
+#################################
+
+File name: b'117'.eml
+
+sex 0.485
+tonight 0.341
+pussy 0.341
+hot 0.329
+girl 0.329
+day 0.299
+womens 0.25
+fuck 0.246
+girls 0.235
+find 0.22
+#################################
+
+File name: b'118'.eml
+
+important 0.503
+media 0.435
+maxwidth 0.419
+screen 0.378
+mcntextcontent 0.339
+importantlineheight 0.17
+pfontsize 0.094
+colorfontfamilyhelveticafontsizefontstylenormalfontweightboldlineheightletterspacingnormaltextalignleft 0.082
+fontsize 0.075
+acolorfontweightnormaltextdecorationunderline 0.075
+templatepreheader 0.061
+templateheader 0.061
+templatefooter 0.061
+templatebody 0.061
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.057
+importantpaddingbottom 0.057
+mcntextcontenttemplatepreheader 0.041
+mcntextcontenttemplateheader 0.041
+mcntextcontenttemplatefooter 0.041
+mcntextcontenttemplatebody 0.041
+#################################
+
+File name: b'119'.eml
+
+western 0.477
+union 0.477
+number 0.214
+usd 0.206
+mtcn 0.159
+details 0.159
+compensation 0.159
+note 0.143
+complete 0.143
+payment 0.129
+money 0.121
+email 0.108
+transfer 0.106
+phone 0.106
+yesterday 0.08
+whatsapp 0.08
+trust 0.08
+total 0.08
+today 0.08
+till 0.08
+#################################
+
+File name: b'120'.eml
+
+shy 0.371
+choose 0.352
+fuck 0.316
+sex 0.312
+ready 0.311
+girls 0.302
+city 0.233
+tonight 0.219
+pussy 0.219
+hot 0.211
+girl 0.211
+day 0.192
+site 0.174
+womens 0.16
+find 0.141
+#################################
+
+File name: b'121'.eml
+
+shy 0.371
+choose 0.352
+fuck 0.316
+sex 0.312
+ready 0.311
+girls 0.302
+city 0.233
+tonight 0.219
+pussy 0.219
+hot 0.211
+girl 0.211
+day 0.192
+site 0.174
+womens 0.16
+find 0.141
+#################################
+
+File name: b'122'.eml
+
+millions 0.354
+hottest 0.354
+women 0.341
+profiles 0.341
+collected 0.341
+single 0.314
+site 0.267
+womens 0.247
+fuck 0.243
+sex 0.24
+girls 0.232
+#################################
+
+File name: b'123'.eml
+
+love 0.346
+lola 0.346
+write 0.249
+soul 0.173
+sake 0.173
+overcome 0.173
+modest 0.173
+mate 0.173
+importantly 0.173
+honest 0.173
+heart 0.173
+happiness 0.173
+gmailcom 0.173
+fears 0.173
+determined 0.173
+cheerful 0.173
+personal 0.168
+world 0.164
+modern 0.164
+live 0.164
+#################################
+
+File name: b'124'.eml
+
+love 0.346
+lola 0.346
+write 0.249
+soul 0.173
+sake 0.173
+overcome 0.173
+modest 0.173
+mate 0.173
+importantly 0.173
+honest 0.173
+heart 0.173
+happiness 0.173
+gmailcom 0.173
+fears 0.173
+determined 0.173
+cheerful 0.173
+personal 0.168
+world 0.164
+modern 0.164
+live 0.164
+#################################
+
+File name: b'125'.eml
+
+love 0.346
+lola 0.346
+write 0.249
+soul 0.173
+sake 0.173
+overcome 0.173
+modest 0.173
+mate 0.173
+importantly 0.173
+honest 0.173
+heart 0.173
+happiness 0.173
+gmailcom 0.173
+fears 0.173
+determined 0.173
+cheerful 0.173
+personal 0.168
+world 0.164
+modern 0.164
+live 0.164
+#################################
+
+File name: b'126'.eml
+
+love 0.346
+lola 0.346
+write 0.249
+soul 0.173
+sake 0.173
+overcome 0.173
+modest 0.173
+mate 0.173
+importantly 0.173
+honest 0.173
+heart 0.173
+happiness 0.173
+gmailcom 0.173
+fears 0.173
+determined 0.173
+cheerful 0.173
+personal 0.168
+world 0.164
+modern 0.164
+live 0.164
+#################################
+
+File name: b'127'.eml
+
+millions 0.354
+hottest 0.354
+women 0.341
+profiles 0.341
+collected 0.341
+single 0.314
+site 0.267
+womens 0.247
+fuck 0.243
+sex 0.24
+girls 0.232
+#################################
+
+File name: b'128'.eml
+
+millions 0.354
+hottest 0.354
+women 0.341
+profiles 0.341
+collected 0.341
+single 0.314
+site 0.267
+womens 0.247
+fuck 0.243
+sex 0.24
+girls 0.232
+#################################
+
+File name: b'129'.eml
+
+important 0.509
+media 0.424
+screen 0.382
+mcntextcontent 0.381
+maxwidth 0.375
+importantlineheight 0.172
+fontsize 0.076
+templateheader 0.062
+templatefooter 0.062
+importantpaddingbottom 0.057
+templatepreheader 0.041
+templatebody 0.041
+mcntextcontenttemplateheader 0.041
+mcntextcontenttemplatefooter 0.041
+mcntextcontenttemplatebody 0.041
+colorfontfamilyhelveticafontsizefontstylenormalfontweightboldlineheightletterspacingnormaltextalignleft 0.041
+view 0.04
+pfontsize 0.038
+importantwidth 0.038
+importantpaddingleft 0.038
+#################################
+
+File name: b'130'.eml
+
+millions 0.354
+hottest 0.354
+women 0.341
+profiles 0.341
+collected 0.341
+single 0.314
+site 0.267
+womens 0.247
+fuck 0.243
+sex 0.24
+girls 0.232
+#################################
+
+File name: b'131'.eml
+
+millions 0.354
+hottest 0.354
+women 0.341
+profiles 0.341
+collected 0.341
+single 0.314
+site 0.267
+womens 0.247
+fuck 0.243
+sex 0.24
+girls 0.232
+#################################
+
+File name: b'132'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'133'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'134'.eml
+
+link 0.442
+willow 0.246
+valentina 0.246
+quinn 0.246
+nova 0.246
+naomi 0.246
+eliana 0.246
+caroline 0.246
+allison 0.246
+button 0.204
+paste 0.198
+copy 0.198
+site 0.18
+browser 0.17
+work 0.126
+city 0.12
+millions 0.119
+hottest 0.119
+women 0.115
+profiles 0.115
+#################################
+
+File name: b'135'.eml
+
+link 0.454
+violet 0.253
+leah 0.253
+claire 0.253
+aubrey 0.253
+savannah 0.227
+isabella 0.227
+avery 0.227
+camila 0.21
+button 0.21
+paste 0.203
+copy 0.203
+site 0.185
+browser 0.175
+work 0.129
+city 0.124
+millions 0.123
+hottest 0.123
+women 0.118
+profiles 0.118
+#################################
+
+File name: b'136'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'137'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'138'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'139'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'140'.eml
+
+country 0.416
+lgbt 0.333
+iran 0.25
+people 0.231
+trouble 0.166
+peace 0.166
+executed 0.166
+beloved 0.166
+live 0.123
+change 0.104
+works 0.083
+undergo 0.083
+treatment 0.083
+transgender 0.083
+tortured 0.083
+suddenly 0.083
+shocking 0.083
+scum 0.083
+representatives 0.083
+regularity 0.083
+#################################
+
+File name: b'141'.eml
+
+bar 0.4
+attractive 0.4
+met 0.345
+pictures 0.322
+hey 0.313
+gorgeous 0.304
+website 0.29
+month 0.267
+ago 0.257
+photos 0.214
+#################################
+
+File name: b'142'.eml
+
+thinking 0.342
+stop 0.342
+sexy 0.342
+loved 0.342
+body 0.342
+found 0.307
+profile 0.284
+sweet 0.26
+gorgeous 0.26
+website 0.248
+photos 0.183
+find 0.102
+#################################
+
+File name: b'143'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'144'.eml
+
+money 0.277
+device 0.241
+sites 0.17
+payment 0.148
+amount 0.146
+wallet 0.143
+operating 0.132
+small 0.126
+joys 0.126
+big 0.126
+system 0.121
+server 0.121
+router 0.121
+regularly 0.121
+receive 0.121
+disk 0.121
+remote 0.119
+hacked 0.115
+data 0.113
+time 0.112
+#################################
+
+File name: b'145'.eml
+
+money 0.277
+device 0.241
+sites 0.17
+payment 0.148
+amount 0.146
+wallet 0.143
+operating 0.132
+small 0.126
+joys 0.126
+big 0.126
+system 0.121
+server 0.121
+router 0.121
+regularly 0.121
+receive 0.121
+disk 0.121
+remote 0.119
+hacked 0.115
+data 0.113
+time 0.112
+#################################
+
+File name: b'146'.eml
+
+money 0.277
+device 0.241
+sites 0.17
+payment 0.148
+amount 0.146
+wallet 0.143
+operating 0.132
+small 0.126
+joys 0.126
+big 0.126
+system 0.121
+server 0.121
+router 0.121
+regularly 0.121
+receive 0.121
+disk 0.121
+remote 0.119
+hacked 0.115
+data 0.113
+time 0.112
+#################################
+
+File name: b'147'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'148'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'149'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'150'.eml
+
+site 0.453
+city 0.304
+millions 0.301
+hottest 0.301
+women 0.289
+profiles 0.289
+collected 0.289
+single 0.266
+womens 0.209
+fuck 0.206
+sex 0.204
+girls 0.197
+find 0.184
+#################################
+
+File name: b'151'.eml
+
+username 0.459
+taste 0.433
+profile 0.382
+talk 0.341
+view 0.319
+ready 0.301
+make 0.291
+im 0.249
+#################################
+
+File name: b'152'.eml
+
+important 0.45
+media 0.433
+maxwidth 0.404
+mcntextcontent 0.371
+screen 0.363
+importantlineheight 0.152
+pfontsize 0.118
+color 0.102
+rightcolumncontainer 0.091
+leftcolumncontainer 0.091
+headercontainer 0.091
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.084
+preheadercontainer 0.068
+footercontainer 0.068
+bodycontainer 0.068
+importantwidth 0.068
+importantpaddingbottom 0.068
+fontsize 0.068
+importantpaddingleft 0.051
+acolorfontweightnormaltextdecorationunderline 0.051
+#################################
+
+File name: b'153'.eml
+
+important 0.438
+maxwidth 0.435
+media 0.392
+mcntextcontent 0.39
+screen 0.378
+importantlineheight 0.187
+pfontsize 0.102
+footercontainer 0.091
+acolorfontweightnormaltextdecorationunderline 0.085
+rightcolumncontainer 0.069
+preheadercontainer 0.069
+leftcolumncontainer 0.069
+headercontainer 0.069
+bodycontainer 0.069
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.068
+importantpaddingbottom 0.068
+fontsize 0.068
+color 0.061
+importantwidth 0.051
+importantpaddingleft 0.051
+#################################
+
+File name: b'154'.eml
+
+important 0.608
+width 0.27
+auto 0.194
+spanimportant 0.172
+padding 0.156
+shop 0.152
+paddingtop 0.135
+img 0.135
+height 0.135
+textalign 0.129
+media 0.104
+webkitfontsmoothspaning 0.091
+umaxwidth 0.091
+textdecoratiounu 0.091
+temailblockpaddiunu 0.091
+temailalignlefutu 0.091
+tefont 0.091
+romanmafontilblockpadding 0.091
+paddinstronggrstrongight 0.091
+ou 0.091
+#################################
+
+File name: b'155'.eml
+
+video 0.381
+bitcoin 0.273
+access 0.259
+malware 0.194
+address 0.189
+means 0.168
+correspondence 0.168
+half 0.161
+antivirus 0.161
+email 0.158
+make 0.147
+full 0.134
+contacts 0.126
+hours 0.123
+device 0.123
+screen 0.115
+letter 0.113
+noticed 0.094
+turn 0.084
+tracked 0.084
+#################################
+
+File name: b'156'.eml
+
+screenshots 0.277
+device 0.235
+sites 0.221
+made 0.197
+payment 0.144
+amount 0.143
+btc 0.141
+account 0.141
+understand 0.139
+os 0.139
+enjoys 0.139
+situation 0.132
+big 0.123
+online 0.121
+server 0.118
+screenshot 0.118
+router 0.118
+regularly 0.118
+receive 0.118
+files 0.118
+#################################
+
+File name: b'157'.eml
+
+important 0.722
+width 0.257
+allrecords 0.193
+auto 0.184
+padding 0.148
+marginleft 0.135
+margin 0.135
+paddingtop 0.128
+img 0.128
+height 0.128
+border 0.128
+textalign 0.123
+lineheight 0.123
+media 0.099
+maxwidth 0.099
+victories 0.087
+stuff 0.087
+simple 0.087
+pleasures 0.087
+deserves 0.087
+#################################
+
+File name: b'158'.eml
+
+important 0.723
+width 0.257
+allrecords 0.193
+auto 0.184
+padding 0.149
+marginleft 0.136
+margin 0.136
+paddingtop 0.129
+img 0.129
+height 0.129
+border 0.129
+textalign 0.123
+lineheight 0.123
+media 0.099
+maxwidth 0.099
+risky 0.087
+required 0.087
+pleasure 0.087
+partner 0.087
+order 0.087
+#################################
+
+File name: b'159'.eml
+
+content 0.252
+email 0.212
+device 0.198
+sites 0.175
+rat 0.168
+contacts 0.152
+dont 0.127
+system 0.125
+antiviruses 0.125
+relatives 0.121
+password 0.119
+make 0.119
+software 0.117
+data 0.117
+malicious 0.115
+code 0.115
+made 0.104
+payment 0.102
+im 0.102
+amount 0.1
+#################################
+
+File name: b'160'.eml
+
+important 0.727
+width 0.259
+allrecords 0.194
+auto 0.185
+padding 0.149
+marginleft 0.136
+margin 0.136
+paddingtop 0.129
+img 0.129
+height 0.129
+border 0.129
+textalign 0.124
+lineheight 0.124
+media 0.1
+maxwidth 0.1
+woman 0.087
+suffer 0.087
+successful 0.087
+stock 0.087
+slow 0.087
+#################################
+
+File name: b'161'.eml
+
+ready 0.261
+sophie 0.199
+maya 0.199
+layla 0.199
+aria 0.199
+tons 0.179
+tall 0.179
+skinny 0.179
+shortwhite 0.179
+savannah 0.179
+riley 0.179
+redhead 0.179
+private 0.179
+plump 0.179
+latin 0.179
+dating 0.179
+brunette 0.179
+brielle 0.179
+blonde 0.179
+black 0.179
+#################################
+
+File name: b'162'.eml
+
+salary 0.264
+remotely 0.264
+personnel 0.264
+manager 0.264
+large 0.264
+international 0.264
+ian 0.264
+employees 0.264
+distance 0.264
+company 0.264
+offer 0.256
+home 0.248
+working 0.242
+interested 0.216
+visit 0.177
+work 0.162
+site 0.116
+#################################
+
+File name: b'163'.eml
+
+tons 0.244
+tall 0.244
+skinny 0.244
+shortwhite 0.244
+redhead 0.244
+private 0.244
+plump 0.244
+latin 0.244
+dating 0.244
+brunette 0.244
+blonde 0.244
+black 0.244
+asian 0.244
+real 0.193
+sex 0.179
+ready 0.178
+women 0.127
+profiles 0.127
+tonight 0.125
+pussy 0.125
+#################################
+
+File name: b'164'.eml
+
+important 0.716
+width 0.255
+allrecords 0.191
+auto 0.182
+padding 0.147
+marginleft 0.134
+margin 0.134
+paddingtop 0.127
+img 0.127
+height 0.127
+border 0.127
+textalign 0.122
+lineheight 0.122
+media 0.098
+maxwidth 0.098
+trusted 0.086
+store 0.086
+solve 0.086
+problems 0.086
+lifestyle 0.086
+#################################
+
+File name: b'165'.eml
+
+victoria 0.286
+ava 0.286
+addison 0.286
+abigail 0.286
+select 0.257
+riley 0.257
+lily 0.257
+isabella 0.257
+fuuuuck 0.257
+avery 0.257
+site 0.209
+unsubscribe 0.178
+list 0.178
+city 0.14
+millions 0.139
+hottest 0.139
+women 0.133
+profiles 0.133
+collected 0.133
+single 0.123
+#################################
+
+File name: b'166'.eml
+
+zoe 0.295
+scarlett 0.295
+madison 0.295
+lillian 0.295
+hannah 0.295
+select 0.265
+penelope 0.265
+fuuuuck 0.265
+camila 0.245
+site 0.216
+unsubscribe 0.184
+list 0.184
+city 0.145
+millions 0.143
+hottest 0.143
+women 0.138
+profiles 0.138
+collected 0.138
+single 0.127
+womens 0.1
+#################################
+
+File name: b'167'.eml
+
+important 0.472
+media 0.424
+maxwidth 0.409
+mcntextcontent 0.39
+screen 0.368
+importantlineheight 0.177
+pfontsize 0.106
+fontsize 0.089
+acolorfontweightnormaltextdecorationunderline 0.089
+templatesidebar 0.08
+pcolorfontfamilyhelveticafontsizelineheighttextalignleft 0.071
+templatepreheader 0.058
+templateheader 0.058
+templatefooter 0.058
+templatebody 0.058
+colorfontfamilyhelveticafontsizefontstylenormalfontweightboldlineheightletterspacingnormaltextalignleft 0.058
+importantwidth 0.053
+importantpaddingbottom 0.053
+mcntextcontenttemplatesidebar 0.053
+normal 0.038
+#################################
+
+File name: b'168'.eml
+
+device 0.171
+system 0.162
+server 0.162
+router 0.162
+files 0.162
+rootkit 0.162
+received 0.162
+funs 0.162
+automatically 0.156
+time 0.149
+videos 0.145
+saved 0.145
+exploit 0.145
+passwords 0.134
+online 0.11
+vulnerability 0.108
+history 0.104
+software 0.101
+sites 0.101
+data 0.101
+#################################
+
+File name: b'169'.eml
+
+seab 1.0
+#################################
+
