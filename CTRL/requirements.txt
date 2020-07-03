@@ -1,5 +1,5 @@
 numpy==1.17.3
-tensorflow-gpu==1.14
+tensorflow-gpu==1.15.2
 torch==1.4.0
 tqdm==4.40.0
 fastBPE==0.1.0
