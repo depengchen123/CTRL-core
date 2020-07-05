@@ -1,0 +1,72 @@
+Return-path: <rick.sanchez.official2000@gmail.com>
+Envelope-to: info@infoprocsoft.com
+Delivery-date: Sat, 30 Nov 2019 18:45:04 +0300
+Received: from mx08.infra.sweb.ru ([10.4.4.196] helo=mx1.spaceweb.ru)
+	by vh62.sweb.ru with esmtp (Exim 4.92.3)
+	(envelope-from <rick.sanchez.official2000@gmail.com>)
+	id 1ib4vf-000Onf-VP
+	for info@infoprocsoft.com; Sat, 30 Nov 2019 18:45:03 +0300
+Received: from mail-lj1-x229.google.com ([2a00:1450:4864:20::229])
+	by mx1.spaceweb.ru with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92.3)
+	(envelope-from <rick.sanchez.official2000@gmail.com>)
+	id 1ib4vf-0007u8-Da
+	for info@infoprocsoft.com; Sat, 30 Nov 2019 18:45:03 +0300
+Received: by mail-lj1-x229.google.com with SMTP id r19so1247964ljg.3
+        for <info@infoprocsoft.com>; Sat, 30 Nov 2019 07:45:02 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=i5G/arbCll1kQLKVpM7oid0gOMmRBNXhUpwocC9UT8U=;
+        b=TmXHVpl6je5tkOoNIP1wOOMcjILjHPfGzfft1ozDcBOiWZs39ThQtGfzyCfXKl46qf
+         aH/xSp+xPFhwR9qF/q176g4W2OShdpj2HO6a0hr0oH86QdO/BQqvMkwa0IdZquVHmR+W
+         l5Z6y5+XofZg/NudkmCJg3XjNcvSvFErkHq7lxmprW0fDKsmE0Q8yzccRekhjKg4+Yt4
+         /F84o7vwe/1qkLD5FvDaSnLgy2uOGaVdzuFf9Li0osETKELbEj9qDb4mnHsAoseVFzN6
+         bBzqp4beTuF7fCpxt+Zi2bYS1GN96KjRzMRmmV2aJws2Dq7YZQdpuBPZ1RG0VFbX6HTd
+         tnpg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=i5G/arbCll1kQLKVpM7oid0gOMmRBNXhUpwocC9UT8U=;
+        b=SiqC/R5DJJN+o3RWakE4bYKKd0bkD6o1t0mC/S0C5ib9g2ocXlztyeqYV2gueLLMLQ
+         NvJ0yIQZWGE1cJ+XTV/J6pebBiVUcn/aYUuDDv0WNVve96tGFptFVI9iX4oWmQOD2ECA
+         r5TFy38NfJ8O/YGkb8ctmL3mv3AkEtx2IiLUtWFp9i1t+gkAo9I3mmEakEx598IFzsi2
+         HKfppuBfPrxcJGOgf4ZHjV6xFyZl3dbHExXkB1mltnmKjth4cwrZhZOPS0onaE/6r1mc
+         Tb69pgwtyczLUnfEORz8xiLW/ld+nwUhxYLmq4E8D4YhNMxlqbLqGB+RvwMdO6nnjXbQ
+         wC/Q==
+X-Gm-Message-State: APjAAAXQMqPdMmIPsZWvjXmQi9QRzzPrK+aVZABSGdRrEmRsn6BZPYT8
+	gNct6Mt4wv33pK2dJv1VC/AxUxFDgpCidks9bpzbVbyD
+X-Google-Smtp-Source: APXvYqz9tXUOxUa83PxcatoWqh9PDS+lM7lI1xsKC5C79dW89m3dXEIUC0n4vVuAOtA/paJSnFBrx5VGXXaQCwUqL4U=
+X-Received: by 2002:a2e:165c:: with SMTP id 28mr2411967ljw.247.1575128702335;
+ Sat, 30 Nov 2019 07:45:02 -0800 (PST)
+MIME-Version: 1.0
+From: Rick Sanchez2000 <rick.sanchez.official2000@gmail.com>
+Date: Sat, 30 Nov 2019 16:44:51 +0100
+Message-ID: <CAAQkALgSEvCUTuf_RZV_qKkTpBNk8xsQACsufA+r1q+SZWt4Jw@mail.gmail.com>
+Subject: yo man
+To: info@infoprocsoft.com
+Content-Type: multipart/alternative; boundary="000000000000c7455d0598923a50"
+X-Spam-Score: 0.3
+X-SW_Score_Int: 3
+X-Spam-Report: pts  rule name              description
+ ---- ----------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (rick.sanchez.official2000[at]gmail.com)
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (rick.sanchez.official2000[at]gmail.com)
+ 
+ Checked By mx08.infra.sweb.ru
+X-Antivirus: Avast (VPS 191130-0, 30.11.2019), Inbound message
+X-Antivirus-Status: Clean
+
+--000000000000c7455d0598923a50
+Content-Type: text/plain; charset="UTF-8"
+
+seab
+
+--000000000000c7455d0598923a50
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">seab<div><br></div></div>
+
+--000000000000c7455d0598923a50--

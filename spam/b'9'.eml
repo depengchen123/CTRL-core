@@ -1,0 +1,67 @@
+Return-path: <lolitabateschu@containerandpackaging.com>
+Envelope-to: info@infoprocsoft.com
+Delivery-date: Tue, 28 May 2019 03:15:41 +0300
+Received: from mx04.infra.sweb.ru ([10.4.4.77] helo=mx1.spaceweb.ru)
+	by vh62.sweb.ru with esmtp (Exim 4.90_1)
+	(envelope-from <lolitabateschu@containerandpackaging.com>)
+	id 1hVPmG-001Csb-Sk
+	for info@infoprocsoft.com; Tue, 28 May 2019 03:15:40 +0300
+Received: from [24.160.160.21] (helo=cpe-24-160-160-21.columbus.res.rr.com)
+	by mx1.spaceweb.ru with esmtp (Exim 4.90_1)
+	(envelope-from <lolitabateschu@containerandpackaging.com>)
+	id 1hVPmC-0007Me-U4
+	for info@infoprocsoft.com; Tue, 28 May 2019 03:15:40 +0300
+Message-ID: <5CEC4568.5070706@containerandpackaging.com>
+Date: Mon, 27 May 2019 15:15:36 -0500
+From: <lolitabateschu@containerandpackaging.com>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.12) Gecko/20100915 Thunderbird/3.0.8
+MIME-Version: 1.0
+To: <info@infoprocsoft.com>
+Subject: How's tricks?
+Content-Type: multipart/alternative;
+ boundary="------------050406030000000007020703"
+X-IS-Spam: 1
+X-Spam-Score: 8.8
+X-SW_Score_Int: 88
+X-Spam-Report: pts  rule name              description
+ ---- ----------------------
+  0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+                             [score: 0.4376]
+  1.6 DATE_IN_PAST_03_06     Date: is 3 to 6 hours before Received: date
+  0.8 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  3.5 URI_WP_DIRINDEX        URI for compromised WordPress site, possible malware
+  0.2 HELO_DYNAMIC_DHCP      Relay HELO'd using suspicious hostname (DHCP)
+  2.0 HELO_DYNAMIC_IPADDR    Relay HELO'd using suspicious hostname (IP addr
+                             1)
+  0.0 NO_FM_NAME_IP_HOSTN    No From name + hostname using IP address
+ 
+ Checked By mx04.infra.sweb.ru
+X-Antivirus: Avast (VPS 191130-0, 30.11.2019), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+--------------050406030000000007020703
+Content-Type: text/plain; charset=CP-850; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+You will be rich here!
+--------------050406030000000007020703
+Content-Type: text/html; charset="CP-850"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+
+    <meta http-equiv=3D"content-type" content=3D"text/html; =
+charset=3DCP-850">
+  </head>
+  <body text=3D"#000000" bgcolor=3D"#ffffff">
+    <a href=3D"http://holadealz.com/wp-content/uploads/2019/05/">You =
+will be rich here!</a>
+  </body>
+</html>
+
+--------------050406030000000007020703--
+
+
