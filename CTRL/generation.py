@@ -4,8 +4,10 @@ import tensorflow as tf
 import os
 import numpy as np
 
+from depeng.extract_keywords_from_email import extract_keywords
+
 tf.enable_eager_execution()
-import transformer
+import CTRL.transformer
 import argparse
 import pdb
 import sys
@@ -107,7 +109,7 @@ embedded = tied_embedding_softmax(tokens, embed=True)
 # the activations after passing it from the transformer
 # for some odd reason, TPUs don't play well with specifying the arguments of the Encoder() function
 # so you have to leave them at their defaults
-transformed = transformer.Encoder()(embedded, training=False)
+transformed = CTRL.transformer.Encoder()(embedded, training=False)
 
 # pass the activations from our tiedsoftmax class
 # this time with embed=False denoting that we are doing the softmax operation
@@ -285,8 +287,20 @@ def generation(control_codes, key_words):
 
 if __name__ == "__main__":
     control_codes = 'Bitcoin'
-    key_words = "is not a real money, but"
-    content_generation = generation(control_codes,key_words)
+    docs_path = "spam"
+    target_file = "spam/b'2'.eml"
+    stop_file = "depeng/resources/stopwords.txt"
+    # get top n keywords
+    topn = 10
+    key_words = extract_keywords(target_file, docs_path, topn, stop_file)
+    prompt = ""
+    for word in key_words:
+        prompt += word
+    content_generation = generation(control_codes, prompt)
+    print("Content is " + content_generation)
+
+
+    content_generation = generation(control_codes,key_words=prompt)
     content_generation = content_generation.strip()
     print("The generated content is ", content_generation)
     print('See you next time...')
