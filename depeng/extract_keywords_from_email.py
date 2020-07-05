@@ -25,7 +25,7 @@ def pre_process(txt):
 
 # creating vocabulary and word counts for idf
 # stopwords
-def get_stop_words(stop_file="./resources/stopwords.txt"):
+def get_stop_words(stop_file):
     with open(stop_file, 'r', encoding='utf-8') as f:
         spwords = f.readlines()
         stop_set = set(m.strip() for m in spwords)
@@ -56,7 +56,18 @@ def extra_n_top_keywords(feature_names, sorted_tfidf_vector, n_top=10):
 
     return results
 
-def extract_keywords(target_doc, docs, topn, stopwords):
+def extract_keywords(target_file, docs_path, topn,stop_file):
+    data = get_email_body_from_directory(path=docs_path)
+    # preprocess ducuments data
+    for key, value in data.items():
+        data[key] = pre_process(value)
+    # get all files content in a list
+    docs = [data[x] for x in data]
+    # read bytes
+    with open(target_file, 'rb') as tf:
+        target_doc = str(extract(tf, tf.name))
+    tf.close()
+    stopwords = get_stop_words(stop_file)
     # create voucabulary words
     # ignore words that appear in 90% of documents
     # our vocabulary size set to 1000
@@ -80,7 +91,6 @@ def extract_keywords(target_doc, docs, topn, stopwords):
     sorted_tfidf_vector = sort_coo(tf_idf_vector.tocoo())
 
     keywords = extra_n_top_keywords(feature_names, sorted_tfidf_vector, topn)
-
     return keywords
 
 
@@ -88,22 +98,10 @@ if __name__ == "__main__":
     print("Let's start our work")
     docs_path = "../../spam"
     target_file = "../../spam/b'2'.eml"
-    data = get_email_body_from_directory(path=docs_path)
-    # preprocess ducuments data
-    for key, value in data.items():
-        data[key] = pre_process(value)
-    # get all files content in a list
-    docs = [data[x] for x in data]
-    # read bytes
-    with open(target_file,'rb') as tf:
-        target_doc = str(extract(tf,tf.name))
-    tf.close()
-    stopwords = get_stop_words()
-    # get top n keywords
-    topn = 20
-    keywords = extract_keywords(target_doc,docs,topn,stopwords)
+    stop_file = "../depeng/resources/stopwords.txt"
+    topn = 10
+    keywords = extract_keywords(target_file,docs_path,topn,stop_file)
     print("Top ", topn, "keywords ")
     for word in keywords:
         print(word," ",keywords[word])
-
 
