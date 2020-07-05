@@ -197,6 +197,8 @@ def get_email_body_from_directory(path):
     # script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
     # rel_path = "email/b'2'.eml"
     for f in file_list:
+        if(f.find(".eml")==False):
+            continue
         abs_file = join(path, f)
         with open(abs_file, 'rb') as fp:
             # print(f,"**********",self.extract(fp,fp.name))
